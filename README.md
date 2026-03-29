@@ -145,12 +145,15 @@ If you see your agenda, you're all set.
 | `obsidian-markdown` | Create and edit notes with proper Obsidian markdown |
 | `obsidian-bases` | Use Obsidian Bases for structured data views |
 | `obsidian-cli` | Search, open, and manage vault files via CLI |
+| `quick-capture` | Capture thoughts and route to the right vault folder instantly |
 
 ### Project Management
 
 | Skill | What It Does |
 |-------|-------------|
 | `asana` | Manage Asana tasks, projects, portfolios, and status updates |
+| `delegation-tracker` | Track delegated tasks, follow up on overdue items |
+| `people-crm` | Personal CRM — track relationships, log interactions, prep for meetings |
 
 ### Communication
 
