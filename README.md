@@ -146,6 +146,12 @@ If you see your agenda, you're all set.
 | `obsidian-bases` | Use Obsidian Bases for structured data views |
 | `obsidian-cli` | Search, open, and manage vault files via CLI |
 
+### Project Management
+
+| Skill | What It Does |
+|-------|-------------|
+| `asana` | Manage Asana tasks, projects, portfolios, and status updates |
+
 ### Communication
 
 | Skill | What It Does |
@@ -166,6 +172,7 @@ If you see your agenda, you're all set.
 | `recipe-find-free-time` | Find open slots across calendars for scheduling |
 | `recipe-create-gmail-filter` | Set up Gmail filters for automatic organization |
 | `recipe-create-presentation` | Generate presentation outlines in Google Slides |
+| `recipe-weekly-review` | End-of-week CEO briefing across calendar, tasks, and email |
 | `writing-plans` | Structure long-form writing with outlines and drafts |
 
 ---
